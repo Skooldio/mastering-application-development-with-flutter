@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "936014034030",
+    "project_id": "flutter-skooldio",
+    "storage_bucket": "flutter-skooldio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936014034030:android:c735cb9f3d773e478a227f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936014034030-qarhuvmsfn4gpvfl5agiajt3rvk7pta0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmtcNvMcj8UBXUB7UTx-kW43gIcXZUoUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936014034030-qarhuvmsfn4gpvfl5agiajt3rvk7pta0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
